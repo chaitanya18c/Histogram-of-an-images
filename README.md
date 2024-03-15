@@ -70,16 +70,16 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
-<img src = "https://github.com/chaitanya18c/Histogram-of-an-images/assets/119392724/2562db07-cde6-4523-8d32-a9e8894a8723" width="300">
-<img src ="https://github.com/chaitanya18c/Histogram-of-an-images/assets/119392724/65bfb5e6-5b86-4f20-a218-17f46ef54323" width="300">
+<img src = "https://github.com/chaitanya18c/Histogram-of-an-images/assets/119392724/2744a181-fb41-4d85-9be1-35374dd772dd" width="300">
+<img src ="https://github.com/chaitanya18c/Histogram-of-an-images/assets/119392724/65ecf62d-403d-4c64-aa4b-ce6bac6d1d84" width="300">
 
 ### Histogram of Grayscale Image and any channel of Color Image
-<img src = "https://github.com/chaitanya18c/Histogram-of-an-images/assets/119392724/bebf60e6-a905-4418-b092-f4b10b1b08c3" width="300">
-<img src = "https://github.com/chaitanya18c/Histogram-of-an-images/assets/119392724/0fb93d30-5752-45c3-a90b-64e9c27e6bbd" width="300">
+<img src = "https://github.com/chaitanya18c/Histogram-of-an-images/assets/119392724/8b8d5d74-65ba-478b-81b3-d73600d7eecb" width="300">
+<img src = "https://github.com/chaitanya18c/Histogram-of-an-images/assets/119392724/7c44f152-d5ec-49a6-8ac1-0d4052b9ee00" width="300">
 
 ### Histogram Equalization of Grayscale Image.
-<img src ="https://github.com/chaitanya18c/Histogram-of-an-images/assets/119392724/541c5ad9-c5c9-41a8-80df-5a41f9c735cc" width="300">
-<img src ="https://github.com/chaitanya18c/Histogram-of-an-images/assets/119392724/d9d77edd-19bc-4809-a184-cbe0c0de938a" width="300">
+<img src ="https://github.com/chaitanya18c/Histogram-of-an-images/assets/119392724/9c853a1a-564a-423d-8016-dc75dd1b333a" width="300">
+<img src ="https://github.com/chaitanya18c/Histogram-of-an-images/assets/119392724/d0e3d764-0671-4a16-893a-53635acdd723" width="300">
 
 ## Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
